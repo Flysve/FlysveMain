@@ -1,9 +1,9 @@
 .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("images/91b03f1b011311ffbc2f647032f607bb.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("images/jH3zZJq.jpg");
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 561px;
+  min-height: 640px;
 }
 
 .u-section-1 .u-shape-1 {
@@ -11,7 +11,7 @@
   height: 449px;
   animation-duration: 1000ms;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
-  margin: 69px 187px 0 auto;
+  margin: 138px 187px 0 auto;
 }
 
 .u-section-1 .u-form-1 {
@@ -45,7 +45,7 @@
 
 .u-section-1 .u-btn-2 {
   border-style: none none solid;
-  margin: 305px auto 60px 336px;
+  margin: 305px auto 70px 336px;
   padding: 0;
 }
 
@@ -168,7 +168,7 @@
 
   .u-section-1 .u-btn-2 {
     margin-top: 372px;
-    margin-bottom: 60px;
+    margin-bottom: 70px;
   }
 }.loginclass {
 }
