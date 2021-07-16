@@ -11,7 +11,6 @@
   width: 935px;
   min-height: 544px;
   background-image: none;
-  height: auto;
   margin: -16px auto 50px;
 }
 
@@ -39,10 +38,6 @@
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
     min-height: 644px;
-  }
-
-  .u-section-1 .u-group-1 {
-    height: auto;
   }
 }
 
